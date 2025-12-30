@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=4000&pause=1000&color=0A1AFF&center=true&vCenter=true&width=800&lines=Daily+Python+Challenge;Desafios+diários+em+Python;Aprenda+e+pratique;Feedback+por+IA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=32&duration=4000&pause=1000&color=0A1AFF&center=true&vCenter=true&width=800&lines=Serpentia;Desafios+diários+em+Python;Aprenda+e+pratique;Feedback+por+IA" />
 </a>
 
 <br>
@@ -20,7 +20,7 @@
 
 ## Sobre o projeto
 
-O **Daily Python Challenge** é um app desktop feito em **Python + PySide6** que entrega **um desafio de programação por dia**, com:
+O **Serpentia** é um app desktop feito em **Python + PySide6** que entrega **um desafio de programação por dia**, com:
 
 - Editor com **destaque de sintaxe** em Python
 - **Console interativo** para execução de testes em tempo real
