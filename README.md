@@ -36,7 +36,7 @@ O objetivo é **aprender praticando**, aumentando produtividade e raciocínio l�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,json,qt&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,qt&theme=dark" />
 <sub>Python, JSON, PySide6</sub>
 </div>
 
@@ -70,9 +70,8 @@ O objetivo é **aprender praticando**, aumentando produtividade e raciocínio l�
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/kmdev.cmd@gmail.com-0A1AFF?style=flat&logo=gmail&logoColor=white)](mailto:kmdev.cmd@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5513974140538)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/586608984560238595)  
+[![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:kmdev.cmd@gmail.com) 
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/586608984560238595)  
 
 </div>
 
