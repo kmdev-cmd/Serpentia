@@ -174,7 +174,7 @@ class DailyChallengeApp(QWidget):
         event.accept()
 
     def init_ui(self):
-        self.setWindowTitle("Daily Python Challenge - Dev Mode")
+        self.setWindowTitle("Serpentia - Daily Challenges")
         self.resize(850, 850)
         self.setStyleSheet("""
             QWidget { background-color: #fff8f5; color: #333; }
