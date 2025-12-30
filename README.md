@@ -1,5 +1,3 @@
-<!-- Minimal README — KmDev | Daily Python Challenge -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=180&section=header&animation=twinkling"/>
 
 <div align="center">
@@ -25,10 +23,10 @@
 O **Daily Python Challenge** é um app desktop feito em **Python + PySide6** que entrega **um desafio de programação por dia**, com:
 
 - Editor com **destaque de sintaxe** em Python
-- **Testes locais** automáticos
-- Avaliação de código com **feedback de IA**
-- Registro de **streak diário** (dias consecutivos resolvendo desafios)
-- Interface clara, **cores pastéis** e rosa, otimizada para rápida execução
+- **Console interativo** para execução de testes em tempo real
+- Avaliação de código com **feedback de IA (Gemini)**
+- Registro de **streak diário** com interface animada
+- Interface clara, **cores pastéis** e rosa, otimizada para estudo
 
 O objetivo é **aprender praticando**, aumentando produtividade e raciocínio lógico com exercícios reais.
 
@@ -38,34 +36,33 @@ O objetivo é **aprender praticando**, aumentando produtividade e raciocínio l�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,json&theme=dark" />
-<sub>Python, json</sub>
+<img src="https://skillicons.dev/icons?i=python,json,qt&theme=dark" />
+<sub>Python, JSON, PySide6</sub>
 </div>
 
 ---
 
 ## Como usar
 
-1. Instale dependências:
-
-pip install PySide6
-
-2. Rode o app:
-
-python main.py
-
-3. Escreva a solução no editor.  
-4. Clique **Testar código** para ver erros rapidamente.  
-5. Clique **Submit** para avaliação da IA e atualização do streak.  
-6. Use **Próximo desafio** para mudar de desafio (aleatório).  
+1. **Instale as dependências** listadas no arquivo `requirements.txt`.
+2. **Configure sua Chave de API**:
+   - Obtenha sua chave no Google AI Studio.
+   - Crie um arquivo `.env` na raiz do projeto.
+   - Adicione a linha: `GEMINI_API_KEY=sua_chave_aqui`.
+3. **Execute o arquivo `main.py`**.
+4. **Pratique**:
+   - Escreva a solução no editor.
+   - Clique em **▶ Run Code** para ver a saída no console.
+   - Clique em **Submit** para que a IA valide seu código e aumente seu **Foguinho (Streak)**.
+   - Use **🔄 Próximo** para sortear um novo desafio do banco de dados.
 
 ---
 
 ## Personalização
 
-- Cores e fontes podem ser alteradas no `setStyleSheet()` do `DailyChallengeApp`.  
-- Adicione novos desafios em `challenges.json`.  
-- Ajuste a IA em `ai_review.py` conforme necessidade.  
+- Cores e fontes podem ser alteradas no `setStyleSheet()` do arquivo principal.
+- Adicione novos desafios em `challenges.json` seguindo o modelo existente.
+- Ajuste as regras do professor IA no arquivo `ai_review.py`.
 
 ---
 
